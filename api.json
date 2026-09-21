@@ -381,6 +381,13 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
+         {
+            "key": "drpy_js_腾云驾雾",
+            "name": "腾云驾雾",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/QQtv.js"
+        },
         {
             "key": "三六零",
             "name": "三六零 • 视频",
