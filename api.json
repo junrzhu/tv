@@ -29,9 +29,9 @@
       {
     "key": "dr_腾迅",
     "name": "🆚┃騰訊┃ TV",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/QQtv.js"
+    "type": 3,         
+     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/junrzhu/tv/refs/heads/main/api/drpy2.min.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/junrzhu/tv/refs/heads/main/js/QQtv.js"       
 },
 {
     "key": "dr_芒果",
