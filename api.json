@@ -1,8 +1,9 @@
 //资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
 
 {
-     "spider": "https://gitee.com/zhujrong/zy/raw/master/jars/fty.jar",
+    "spider": "./jar/1.png;md5;ac037e008306b2f338c759a8968cd067",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "logo": "./img/17.png",
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
     "sites": [
         {
