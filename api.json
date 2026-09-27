@@ -44,7 +44,7 @@
     "key": "dr_奇异",
     "name": "🆚┃奇藝┃ TV",
     "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/junrzhu/tv/refs/heads/main/api/drpy2.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/junrzhu/tv/refs/heads/main/api/drpy2.min.js",
     "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/junrzhu/tv/refs/heads/main/js/AQItv.js"
 },
 {
